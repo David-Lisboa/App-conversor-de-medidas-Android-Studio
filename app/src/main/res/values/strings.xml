@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Conversor de Medidas</string>
+    <string name="converter">Converter</string>
+    <string name="digite_km">Digite Km</string>
+</resources>
